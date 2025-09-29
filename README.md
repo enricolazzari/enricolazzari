@@ -1,27 +1,14 @@
-### Olá, eu sou [Enrico Lazzari] 👋
+<h1 align="center">Hi 👋, I'm Enrico Canabarro Lazzari</h1>
+<h3 align="center">Welcome to my GitHub! I started coding for fun as a kid, and now I'm pursuing it as a professional dream. Feel free to explore my repositories. I mainly code in Java, but I also work with Delphi/Pascal, databases, and more!💻</h3>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  Welcome to my GitHub! I started coding for fun as a kid, and now I'm pursuing it as a professional dream. Feel free to explore my repositories. I mainly code in Java, but I also work with Delphi/Pascal, databases, and more! 💻
+<a href="https://twitter.com/enricolazzariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enricolazzariii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enricolazzari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enricolazzari" height="30" width="40" /></a>
+<a href="https://instagram.com/enricolazzari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enricolazzari_" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-### 💻 Quando eu codifico, eu confio em:
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="https://www.embarcadero.com/products/delphi" target="_blank"><img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
----
-
-### 📫 Conecte-se comigo:
-<p align="left">
-<a href="[URL-DO-SEU-LINKEDIN](https://www.linkedin.com/in/enrico-lazzari/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="seu-linkedin" /></a>
-</p>
-
----
-
-### 👇 Confira meus repositórios abaixo:
+Support 🙏
