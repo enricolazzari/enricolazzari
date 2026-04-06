@@ -111,7 +111,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=parking-system-manager&theme=tokyonight)](https://github.com/enricolazzari/parking-system-manager)
+[![Parking System](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=parking-system-manager&theme=tokyonight)](https://github.com/enricolazzari/parking-system-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/enricolazzari/REPO_NAME_2)
 
 </div>
