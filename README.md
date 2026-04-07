@@ -21,12 +21,12 @@
 class ComputerScientist:
     def __init__(self):
         self.name       = "Enrico Lazzari"
-        self.role       = "Computer Scientist & Software Engineer"
+        self.role       = "Computer Scientist"
         self.location   = "🌍 Earth"
-        self.languages  = ["Python", "Java", "C++", "JavaScript", "TypeScript"]
+        self.languages  = ["Java", "Go", "C/C++"]
         self.interests  = ["Algorithms", "AI/ML", "System Design", "Open Source"]
         self.education  = "Computer Science"
-        self.hobbies    = ["Coding", "Gaming", "Reading", "Coffee ☕"]
+        self.hobbies    = ["Coding", "Gaming", "Reading", "Chocolate ☕"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
