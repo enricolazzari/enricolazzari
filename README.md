@@ -17,22 +17,35 @@
 
 ## 🧬 About Me
 
-```python
-class ComputerScientist:
-    def __init__(self):
-        self.name       = "Enrico Lazzari"
-        self.role       = "Computer Scientist"
-        self.location   = "🌍 Earth"
-        self.languages  = ["Java", "Go", "C/C++"]
-        self.interests  = ["Algorithms", "AI/ML", "System Design", "Open Source"]
-        self.education  = "Computer Science"
-        self.hobbies    = ["Coding", "Gaming", "Reading", "Chocolate ☕"]
+```java
+public class ComputerScientist {
+    private String name;
+    private String role;
+    private String location;
+    private String[] languages;
+    private String[] interests;
+    private String education;
+    private String[] hobbies;
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+    public ComputerScientist() {
+        this.name      = "Enrico Lazzari";
+        this.role      = "Computer Scientist";
+        this.location  = "🌍 Earth";
+        this.languages = new String[]{"Java", "Go", "C/C++"};
+        this.interests = new String[]{"Algorithms", "AI/ML", "System Design", "Open Source"};
+        this.education = "Computer Science";
+        this.hobbies   = new String[]{"Coding", "Gaming", "Reading", "Chocolate ☕"};
+    }
 
-me = ComputerScientist()
-me.say_hi()
+    public void sayHi() {
+        System.out.println("Thanks for dropping by! Let's build something amazing together 🚀");
+    }
+
+    public static void main(String[] args) {
+        ComputerScientist me = new ComputerScientist();
+        me.sayHi();
+    }
+}
 ```
 
 ---
