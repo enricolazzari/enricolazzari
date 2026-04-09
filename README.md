@@ -126,10 +126,9 @@ public class ComputerScientist {
 <div align="center">
 
 [![Parking System](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=parking-system-manager&theme=tokyonight)](https://github.com/enricolazzari/parking-system-manager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/enricolazzari/REPO_NAME_2)
+[![Firebird -> MySQL Migrator](https://github.com/enricolazzari/firebird-mysql-delphi-sync-tool.git)
 
 </div>
-
 
 ---
 
