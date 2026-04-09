@@ -126,7 +126,7 @@ public class ComputerScientist {
 <div align="center">
 
 [![Parking System](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=parking-system-manager&theme=tokyonight)](https://github.com/enricolazzari/parking-system-manager)
-[![Firebird -> MySQL Migrator](https://github.com/enricolazzari/firebird-mysql-delphi-sync-tool.git)
+[![Firebird MySQL Migrator](https://github-readme-stats.vercel.app/api/pin/?username=enricolazzari&repo=firebird-mysql-delphi-sync-tool&theme=tokyonight)](https://github.com/enricolazzari/firebird-mysql-delphi-sync-tool)
 
 </div>
 
